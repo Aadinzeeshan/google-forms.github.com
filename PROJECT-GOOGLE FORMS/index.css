@@ -1,0 +1,81 @@
+html {
+  background-image: url(https://thumbs.dreamstime.com/z/baby-items-background-25629958.jpg);
+}
+
+.top {
+    font-size: 25px;
+    font-family: 'Noto Sans JP', sans-serif;
+    text-align: center;
+    background-image: url(http://www.baltana.com/files/wallpapers-16/4K-Plain-Blurred-Background-Wallpaper-40969.jpg);
+    -webkit-box-shadow: 4px 10px 0px 10px rgba(0,0,0,0), 7px 7px 0px 3px #000000; 
+box-shadow: 4px 10px 0px 10px rgba(0,0,0,0), 7px 7px 0px 3px #000000;
+}
+
+.alo{
+    text-align: center;
+    font-family: 'Noto Sans JP', sans-serif;
+    background-image: url(http://www.iwsconsultores.com/wp-content/uploads/2016/05/wallpaper-white-14.jpg);
+    -webkit-border-radius: 40px 40px 40px 40px;
+-moz-border-radius: 40px 40px 40px 40px;
+border-radius: 40px 40px 40px 40px;
+padding: 20px;
+}
+
+.first{
+    background-image: url(https://wallpapercave.com/wp/wp166673.jpg);
+    border: 1px double #1C6EA4;
+border-radius: 20px;
+padding: 20px;
+-webkit-box-shadow: 0px 8px 5px 5px rgba(0,0,0,0.43); 
+box-shadow: 0px 8px 5px 5px rgba(0,0,0,0.43);
+font-family: 'Trispace', sans-serif;
+color: honeydew;
+}
+
+.second {
+    background-image: url(https://wallpapercave.com/wp/wp166673.jpg);
+    border: 1px double #1C6EA4;
+border-radius: 20px;
+padding: 20px;
+-webkit-box-shadow: 0px 8px 5px 5px rgba(0,0,0,0.43); 
+box-shadow: 0px 8px 5px 5px rgba(0,0,0,0.43);
+font-family: 'Trispace', sans-serif;
+color: honeydew;
+}
+
+.third {
+    background-image: url(https://wallpapercave.com/wp/wp166673.jpg);
+    border: 1px double #1C6EA4;
+border-radius: 20px;
+padding: 20px;
+-webkit-box-shadow: 0px 8px 5px 5px rgba(0,0,0,0.43); 
+box-shadow: 0px 8px 5px 5px rgba(0,0,0,0.43);
+font-family: 'Trispace', sans-serif;
+color: honeydew;
+} 
+
+.bottom {
+    background-color: lightslategray;
+    border: 5px dotted black;
+    padding: 20px;
+    floar: left;
+    overflow: auto;
+    text-align: right;
+    font-family: 'Trispace', sans-serif;
+}
+
+button {
+    -webkit-border-radius: 40px 40px 40px 40px;
+-moz-border-radius: 40px 40px 40px 40px;
+border-radius: 40px 40px 40px 40px;
+padding: 20px;
+font-size: 20px;
+font-family: 'Trispace', sans-serif;
+-webkit-box-shadow: 16px 23px 1px -4px rgba(0,0,0,0.26); 
+box-shadow: 16px 23px 1px -4px rgba(0,0,0,0.26);
+}
+    
+
+
+
+
